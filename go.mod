@@ -1,4 +1,4 @@
-module kiekurono/postgres
+module github.com/kiekurono/postgres
 
 go 1.14
 
